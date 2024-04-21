@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cumic06&" alt="cumic06" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumic)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cumic)](https://solved.ac/cumic) 
