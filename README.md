@@ -19,7 +19,8 @@ Hello, Im BaeChangHwan Iam High School Student<br>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://logolook.net/wp-content/uploads/2023/10/Photoshop-Logo-2015.png" alt="photoshop" width="70" height="40"/> </a> </p>
 
 ## MyStat : :crown:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cumic06&show_icons=true&locale=en&layout=compact" alt="cumic06" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cumic06&show_icons=true&locale=en&layout=compact" alt="cumic06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cumic06&show_icons=true&locale=en" alt="cumic06" /></p>
 
