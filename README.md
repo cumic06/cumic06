@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm BaeChangHwan</h1>
 
-<br>
 Hello, Im BaeChangHwan I am High School Student<br>
   I am Studying GameDevloperment
 
