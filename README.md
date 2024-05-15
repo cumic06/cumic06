@@ -5,7 +5,7 @@ Hello, Im BaeChangHwan I am High School Student<br>
 
 ## Connect with me: :email:
 <a href="https://cumic06.github.io/"><img alt="git" src ="https://img.shields.io/badge/Blog [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
-<a href="https://judicious-count-94f.notion.site/27e9ef76db0645cf9d7dd0258e98393d?pvs=4"><img alt="git" src ="https://img.shields.io/badge/Notion-191919.svg?&style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
+<a href="https://judicious-count-94f.notion.site/27e9ef76db0645cf9d7dd0258e98393d?pvs=4"><img alt="git" src ="https://img.shields.io/badge/Notion PortFlio-191919.svg?&style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 <p align="left">
 </p>
 
