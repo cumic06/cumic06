@@ -10,12 +10,12 @@ Hello, Im BaeChangHwan I am High School Student<br>
 </p>
 
 ## Languages and Tools: :wrench:
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://s26.q4cdn.com/977690160/files/design/U_Logo_White_RGB_1C.png" alt="unity" width="120" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://logolook.net/wp-content/uploads/2023/10/Photoshop-Logo-2015.png" alt="photoshop" width="70" height="40"/> </a> </p>
+<div align="left">
+<img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=Unity&logoColor=111111">
+<img src="https://img.shields.io/badge/csharp-white?style=for-the-badge&logo=csharp&logoColor=512BD4">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
 
 ## MyStat : :crown:
 
