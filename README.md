@@ -19,10 +19,13 @@ I am Studying GameDevloperment
 
 ## MyStat : :crown:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cumic06&show_icons=true&locale=en&layout=compact" alt="cumic06" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cumic06&show_icons=true&locale=en" alt="cumic06" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cumic06&" alt="cumic06" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cumic06&" alt="cumic06"/></p>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cumic)](https://solved.ac/cumic) 
+
+<br>
+<details align="left">
+  <summary>Not Special Stat</summary>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cumic06&show_icons=true&locale=en&layout=compact" alt="cumic06"/></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cumic06&show_icons=true&locale=en" alt="cumic06"/></p>
+</details>
