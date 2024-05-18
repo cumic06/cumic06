@@ -19,9 +19,9 @@ I'm Studying GameDevloperment
 
 ## MyStat : :crown:
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cumic06&" alt="cumic06"/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cumic06&" alt="cumic06"/></p>
 
-<div align="right">
+<div align="down">
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cumic)](https://solved.ac/cumic) 
 
