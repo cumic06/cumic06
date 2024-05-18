@@ -19,7 +19,7 @@ I'm Studying GameDevloperment
 
 ## MyStat : :crown:
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cumic06&" alt="cumic06"/></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cumic06&" alt="cumic06"/>
 
 <div align="right">
   
