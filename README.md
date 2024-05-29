@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm BaeChangHwan</h1>
+<h1 align="left">Hello, World 👋, I'm BaeChangHwan</h1>
 
 Hello, I'm BaeChangHwan I'm High School Student<br>
 I'm Studying GameDevloperment
