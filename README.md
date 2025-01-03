@@ -1,6 +1,6 @@
 <h1 align="left">Hello, World 👋, I'm BaeChangHwan</h1>
 
-Hello, I'm BaeChangHwan I'm High School Student<br>
+Hello, I'm BaeChangHwan I'm Game Devloper<br>
 I'm Studying GameDevloperment
 
 ## Connect with me: :email:
