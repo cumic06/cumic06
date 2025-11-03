@@ -1,7 +1,6 @@
 <h1 align="left">Hello, World 👋, I'm BaeChangHwan</h1>
 
 Hello, I'm BaeChangHwan I'm Game Devloper<br>
-I'm Studying GameDevloperment
 
 ## Connect with me: :email:
 <a href="https://cumic06.github.io/"><img alt="git" src ="https://img.shields.io/badge/Blog [click]-white.svg?&style=for-the-badge&logo=GitHub&logoColor=181717"/></a> 
