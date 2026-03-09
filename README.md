@@ -25,6 +25,8 @@ Hello, I'm BaeChangHwan I'm Game Devloper<br>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cumic)](https://solved.ac/cumic) 
 
+![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=cumic06&theme=react-dark)
+
 </div>
 
 
